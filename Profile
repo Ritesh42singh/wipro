@@ -1,0 +1,2 @@
+I am Ritesh Kumar singh.
+This is a file created in Git repository for DevOps Assignment.
